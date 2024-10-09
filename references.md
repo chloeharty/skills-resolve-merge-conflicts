@@ -1,1 +1,7 @@
-This is my conflicting file. 
+
+
+=======
+# References
+
+* octocat 1 😈
+
